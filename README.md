@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com/?user=s-minoo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=s-minoo&theme=dark)](https://git.io/streak-stats)
 <!--
 **s-minoo/s-minoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
